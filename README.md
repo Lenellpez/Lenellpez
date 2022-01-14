@@ -3,6 +3,6 @@
 ### Hi there👋
 I am a Argentino programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
 # 📬 Mis redes 
-- LinkedIn: [linkedin.com/in/fernandomireles](https://www.linkedin.com/in/leonel-mendez-6b80b3219/)
-- Gmail: [Gmail.com/Leonel](leonelrogeliomendez@gmail.com)
+- LinkedIn: [linkedin.com/in/Leonel](https://www.linkedin.com/in/leonel-mendez-6b80b3219/)
+- Gmail: [Gmail.com/leonel](leonelrogeliomendez@gmail.com)
 
