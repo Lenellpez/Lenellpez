@@ -1,6 +1,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Lenellpez&color=2685BF)
 # Hi there👋
+<img aling="center" src="https://github.com/Lenellpez/Lenellpez/blob/main/leonel%20mendez%20Lopez.gif" width="600" height="300"/>
 *I am a Argentine programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.*
 
 <div style="display: inline_block"><br>
